@@ -1,3 +1,5 @@
+**Note from the forker: This is a fork from https://github.com/lmineiro/zalando-rules-of-play. It seems to be a copy from the original https://github.com/zalando/engineering-principles, which seemed to be renamed to https://github.com/zalando/engineering-principles. The later was depreceated in 2020 and thus this repo is just there for historical reasons. -- @feststelltaste**
+
 Zalando Tech's Rules of Play
 ========================================
 
